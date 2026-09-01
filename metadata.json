@@ -1,0 +1,8 @@
+{
+  "name": "AETHER 7 • Autonomous Financial Intelligence",
+  "description": "Next-generation multi-agent financial intelligence terminal by Aether 7 Labs, transforming order flow, regulatory disclosures, and market dynamics into explainable investment execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
